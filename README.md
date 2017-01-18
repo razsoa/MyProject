@@ -1,2 +1,2 @@
-# MyProject
-Project description
+# NewProject
+New Project description
